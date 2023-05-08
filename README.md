@@ -1,5 +1,3 @@
-# Landing-Page-Udacity-Project
-Each file contains it's modifications and comment above each step of modify.
 In CSS Style there is a lot of change done on the project to be the style you see on screen interface right now, also a lot of modifications to be responsive on all screen types.
 
 There's not a lot of modification done in the HTML File it was just adding 2 more sections (4 and 5) to the Page.
@@ -16,4 +14,6 @@ The majority of the work was done on app.js, there is a lot of things done there
 
   5. Both The activeSection Function and toggleNavBar Function are invoked in the Scroll event listener to be executed.
 
-  6. Building a goUpButton appended to the page footer to be easy for the user to click on it to go to the home page again without scrolling,this button was made by using JS and CSS only without the intervention of HTML.
+  6. Building a Go To Top Button appended to the page footer to be easy for the user to click on it to go to the top of the page again without scrolling,this button was made by using JS and CSS only without the intervention of HTML.
+  
+  7. The preventDefault is in place to prevent button from working for project purposes.
